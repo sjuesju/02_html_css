@@ -1,0 +1,22 @@
+#greenWhite {
+	background: #437b28;
+	color:  #b9c6b3;
+}
+
+#blue{
+	background: #59688a;
+	color: #edf6c3;
+}
+
+#blue #green {
+	color: #94cf85;
+}
+
+.pink{
+	background: #f1cbd5;
+	color: #9a8d90;
+}
+
+.pink .pink_green{
+	color:  #204423;
+}

@@ -1,0 +1,19 @@
+.first {
+	background: #31c72a;
+}
+
+.first h1{
+	color: #f3e50d;
+}
+
+#second {
+	background: #000;
+}
+
+#second h1{
+	color: #0c1de5;
+}
+
+#third {
+	color: #0c1de5;
+}
